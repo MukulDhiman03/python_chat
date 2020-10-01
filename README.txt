@@ -1,3 +1,4 @@
+Amazing project
 The codes are free for all, you can use it for whatever means you want.
 
 This chat program requires you to have python 2.x installed, python 3.x won't work.
